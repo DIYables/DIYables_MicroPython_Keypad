@@ -1,5 +1,5 @@
 ## MicroPython Keypad Library - DIYables_MicroPython_Keypad
-This MicroPython library is designed for any hardware platform that supports MicroPython such as Raspberry Pi Pico, ESP32, Micro:bit... to make it easy to use with keypad 3x4, keypad 4x4. It is easy to use for not only beginners but also experienced users... 
+This MicroPython Keypad library is designed for any hardware platform that supports MicroPython such as Raspberry Pi Pico, ESP32, Micro:bit... to make it easy to use with keypad 3x4, keypad 4x4. It is easy to use for not only beginners but also experienced users... 
 
 It is created by DIYables to work with DIYables Keypad, but also work with products from other brands. Please consider purchasing products from [DIYables Store on Amazon](https://amazon.com/diyables) to support our works.
 
